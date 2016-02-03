@@ -1,0 +1,1 @@
+Self refers to the current object, which is receiving the current message. It can be used to reference another file by “requiring” it. It can also be used to signify an instance that is specific to an entire class.
