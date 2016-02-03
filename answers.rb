@@ -1,0 +1,1 @@
+12 searches. If you do 12 regular searches it will take you 120 seconds, while a pre-sort + binary will take you only 112 seconds. Any number of searches under that amount will make the regular search more efficient,
